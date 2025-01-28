@@ -85,7 +85,7 @@ console.log(num2++ , num3++);
 console.log(num2++ , num3++);*/
 
 // lets calculate table of number
-/*tableNumber=2;
+tableNumber= +prompt("Enter a number");
 count=1;
 console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber);
 console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber);
@@ -98,7 +98,7 @@ console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *table
 console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber);
 console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber);
 console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber);
-console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber); */
+console.log(tableNumber + " " + " x" + " " + count + " =" + " " + count++ *tableNumber); 
 
 
 
